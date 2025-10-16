@@ -1,6 +1,6 @@
 name: "Automatic Overtake"
 overview: "Automatic Overtaking Assistant."
-description: ""
+description: "Attempts to automatically overtake traffic ahead"
 image_url: ""
 version: "1.0.0"
 author: "ReqT1m3out"
