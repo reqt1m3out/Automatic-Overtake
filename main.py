@@ -15,9 +15,8 @@ from ETS2LA.Utils.translator import _
 from Modules.Traffic.classes import Vehicle
 
 # Local
-sys.path.append("CataloguePlugins.AutomaticOvertake")
-from settings import settings
-from ui import SettingsPage
+from CataloguePlugins.AutomaticOvertake.settings import settings
+from CataloguePlugins.AutomaticOvertake.ui import SettingsPage
 
 if TYPE_CHECKING:
     from Modules.SDKController.main import SCSController as Controller
