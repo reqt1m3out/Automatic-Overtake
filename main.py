@@ -47,7 +47,7 @@ class OvertakeState(Enum):
 
 class Plugin(ETS2LAPlugin):
     description = PluginDescription(
-        name=_("Automatic Overtake"),
+        name=_("AutomaticOvertake"),
         version="1.0.1",
         description=_("Automatic Overtaking Assistant."),
         modules=["TruckSimAPI", "Traffic", "SDKController"],
