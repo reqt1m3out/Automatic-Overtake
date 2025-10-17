@@ -13,7 +13,7 @@ from ETS2LA.UI import (
 )
 from ETS2LA.Utils.translator import _
 
-from Plugins.AutomaticOvertake.settings import settings
+from CataloguePlugins.AutomaticOvertake.settings import settings
 
 
 class SettingsPage(ETS2LAPage):
