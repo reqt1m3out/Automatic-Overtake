@@ -1,4 +1,4 @@
-name: "Automatic Overtake"
+name: "AutomaticOvertake"
 overview: "Automatic Overtaking Assistant."
 description: "Attempts to automatically overtake traffic ahead"
 image_url: ""
